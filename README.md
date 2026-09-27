@@ -11,6 +11,10 @@ This is an independent design proposal, not the business's official website.
 - Keep `noindex, nofollow`, `robots.txt` and the independent-preview footer until
   the business approves an official launch.
 - Choose a hosting plan that permits the intended commercial use.
+- GitHub Pages demo URL: https://gopalshuklacanva.github.io/yash-ro-sales-demo/
+- Pages publishes the `main` branch root. `.nojekyll` preserves the static files.
+- This Pages deployment is an independent design demo for review, not an
+  official business launch or an online transaction service.
 
 ## Content
 
